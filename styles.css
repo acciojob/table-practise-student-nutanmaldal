@@ -1,32 +1,10 @@
-
+    
       table {
-        background-color: yellow;
+        background-color: yellow !important;
         border-collapse: collapse;
-        width: 50%;
-        margin: 20px auto;
       }
-
-      
       table, th, td {
         border: 1px solid black;
       }
-
     
-      caption {
-        font-weight: bold;
-        font-size: 1.2em;
-        margin-bottom: 10px;
-      }
-
-      
-      th {
-        background-color: #f2f2f2;
-        padding: 8px;
-      }
-
-    
-      td {
-        text-align: center;
-        padding: 8px;
-      }
     
